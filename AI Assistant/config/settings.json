@@ -1,0 +1,9 @@
+{
+    "api_key": "sk-xxx",
+    "api_base": "https://open.api.gu28.top/v1",
+    "model": "gpt-4o",
+    "max_concurrent": 30,
+    "system_prompt": "",
+    "chunk_size": 2000,
+    "image_prompt": "\u8bc6\u522b\u56fe\u7247\u4e2d\u7684\u6587\u5b57\uff1a"
+}
